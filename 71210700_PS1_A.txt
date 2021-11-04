@@ -1,0 +1,11 @@
+2001+2002+2003+.........+3998+3999+4000 =
+ Penyelesaian :
+Sn = n/2  (2a + (n-1)b)
+ ket: 	Sn = Jumalah n suku pertama
+	n  = Banyak suku barisan aritmatika
+	a  = Suku pertama barisan aritmatika
+	b  = beda
+S1999 	 = 1999/2  (2*2001 + (1999-1)1)
+	 = 999,5 (4002 + 1998)
+	 = 999,5 * 6000
+	 = 5.997.000
